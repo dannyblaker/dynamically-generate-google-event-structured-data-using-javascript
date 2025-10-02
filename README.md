@@ -6,6 +6,9 @@ I originally wrote this for a website that used the Divi Wordpress theme, howeve
 
 **You are most welcome to use this code in your commercial projects, all that I ask in return is that you credit my work by providing a link back to this repository. Thank you & Enjoy!**
 
+| ![Demo](event-details.png) | ![Demo](event-rich-result.png) |
+|----------|----------|
+
 ## Features
 
 - **Automatic detection**: Runs only on event pages (checks for `.e-name`).
